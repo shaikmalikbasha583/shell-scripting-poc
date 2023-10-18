@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+# This is sample shell file without any Extension
+
+echo This is sample shell file without any Extension
+
+m=100
+
+echo "\$$m"
